@@ -1,0 +1,216 @@
+[33mcommit 54b205683e4eea67ea0bed8cf2e6ac511a2713ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew[m[33m)[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Thu Jun 27 09:40:18 2024 +0900
+
+    Edit Tigers and Leopards
+
+[33mcommit dc619826dea68eb2faf1dde0d6caff282d4fe3b2[m[33m ([m[1;31morigin/new[m[33m)[m
+Author: ChoongGhee <133324658+ChoongGhee@users.noreply.github.com>
+Date:   Wed Jun 26 14:47:15 2024 +0900
+
+    Update tigers.yaml
+
+[33mcommit 70f454632a6804929bdb93569c2d36180188861a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: ChoongGhee <133324658+ChoongGhee@users.noreply.github.com>
+Date:   Wed Jun 26 14:44:08 2024 +0900
+
+    Update tigers.yaml
+
+[33mcommit 1168010f79228e911e1875ce6ce8377f55c9e2a4[m
+Author: ChoongGhee <133324658+ChoongGhee@users.noreply.github.com>
+Date:   Tue Jun 25 15:32:32 2024 +0900
+
+    Add Pinkfong to Jaguars
+
+[33mcommit 01986e2f4cbef5414e455da762355d1683630bae[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 15:29:19 2024 +0900
+
+    Add Pororo to Pumas
+
+[33mcommit 41bbdfc5f46c00fd93d60ed1f0b3ec679882af7a[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 13:43:47 2024 +0900
+
+    Edit Leopards manager
+
+[33mcommit 13b52fb5d4b64ffb6ae1e4bfdc9b141f37449e24[m
+Author: ChoongGhee <133324658+ChoongGhee@users.noreply.github.com>
+Date:   Tue Jun 25 13:44:23 2024 +0900
+
+    Edit Leopards coach
+
+[33mcommit 517916c5f703c90d2905cb0735300389f2c2a650[m
+Author: ChoongGhee <133324658+ChoongGhee@users.noreply.github.com>
+Date:   Tue Jun 25 13:27:43 2024 +0900
+
+    Add Dongho to Leo
+
+[33mcommit 8f0b0f75009821d0d91c0cfcf1b7c98692bca17a[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 11:25:14 2024 +0900
+
+    Add Evie to Leopards
+
+[33mcommit 4e9a6a7fd08f4f1ceb5939f0fcb07aa45897418b[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 11:08:05 2024 +0900
+
+    merg conf
+
+[33mcommit a61f338cbcb259e93027bfea749567fcc30bf459[m
+Merge: e124932 5c08b6c
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:25:19 2024 +0900
+
+    Merge branch 'conf'
+    
+    # Conflicts:
+    #       tigers.yaml
+
+[33mcommit 5c08b6c4bbe692959e1020aef5ca44e3b8d63222[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:23:59 2024 +0900
+
+    Edit Park to Tigers
+
+[33mcommit e124932033d7e1c7ebbcbb6ca2e042353d19eaee[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:23:28 2024 +0900
+
+    Edit Kim to Tigers
+
+[33mcommit ae8c4e6e834baecd5b103be803eb7462980a2a2d[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:13:25 2024 +0900
+
+    Edit Tigers coach
+
+[33mcommit 406b620c22ca45050102611c68bd47c73945e9d7[m
+Merge: 94f1140 acddc31
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:14:32 2024 +0900
+
+    Merge branch 'to-merge'
+
+[33mcommit acddc3159f5bf7f51b70a05cae6b84577381d4df[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:12:44 2024 +0900
+
+    Edit Tigers coach
+
+[33mcommit 94f11403ebc6b465b85db3f8c1c2b6b8c11d1f0e[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Tue Jun 25 10:11:49 2024 +0900
+
+    Edit Tigers manager
+
+[33mcommit 269ef57a48a874ab55aa4def86e3790eccc5afd6[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 17:17:55 2024 +0900
+
+     Edit Pan
+
+[33mcommit e5f6af0b670e7e4f332fd3964fb28c7dda7083b4[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 17:17:29 2024 +0900
+
+    Edit LEo
+
+[33mcommit 3fa05aefd160f94957ca8e593e29c1d4cb870cc7[m
+Merge: 2e5b604 5353785
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 17:21:59 2024 +0900
+
+    Merge branch 'cof1'
+
+[33mcommit 5353785eba099438e5c8e44913dfa2c6b9f13709[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 17:16:44 2024 +0900
+
+    Edit Tiger
+
+[33mcommit 2e5b6042a372bb1b92137261f10280138ee3d79b[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 17:15:56 2024 +0900
+
+    Edit Tigers, Le, Pan
+
+[33mcommit 285700ef792afc5323fd99f4b98340f242faf2c8[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:25:48 2024 +0900
+
+    Add team Jaguars
+
+[33mcommit 00ef9414761dcd361702f5e999e3f4d074090860[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:25:08 2024 +0900
+
+    Add team Pumas
+
+[33mcommit 5417023d4fd1dff31fcbfd2d44ba8556ed161fb5[m
+Merge: 7d11127 683ef5c
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:48:40 2024 +0900
+
+    Merge branch 'add-coach'
+
+[33mcommit 683ef5c1369a5aa3bd094f2446aa56a39ddeac5c[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:24:05 2024 +0900
+
+    Add Coach Teddy to Panthers
+
+[33mcommit ac4678446c28556908e54f5ea7bfefe084f72b8e[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:23:15 2024 +0900
+
+    Add Coach Oscar to Leopards
+
+[33mcommit 4efe04ca9fc4a3dffe5f262080afa3e10764f65c[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:21:30 2024 +0900
+
+    Add Coach Grace to Tigers
+
+[33mcommit 7d111270112e8fd817477fc1c2a90d09f2f39512[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:17:58 2024 +0900
+
+    Add Freddie to Panthers
+
+[33mcommit 5d3a4bac6ebcdd97f43ca9acda7fc95317c820d5[m
+Author: ChoongGhee <tititito44@gmail.com>
+Date:   Mon Jun 24 16:16:47 2024 +0900
+
+    Add Olivia to Leopards
+
+[33mcommit 5c7dc2a6c5fbd03a22e08aea2d95e923303db749[m
+Author: yalco <yalco@kakao.com>
+Date:   Sun Jul 23 02:04:25 2023 +0900
+
+    Replace Cheetas with Panthers
+
+[33mcommit 3a82dcc14bb6af84a1133bb8cd6df6b714a33b59[m
+Author: yalco <yalco@kakao.com>
+Date:   Sun Jul 23 02:03:16 2023 +0900
+
+    Add team Cheetas
+
+[33mcommit f6f00bb7b7c7f3cbde2bbfddfef8a7c72dfbc107[m
+Author: yalco <yalco@kakao.com>
+Date:   Sun Jul 23 02:02:54 2023 +0900
+
+    Add George to Tigers
+
+[33mcommit d7856a55285879e9d8a3631a2a4fd36d49922adb[m
+Author: yalco <yalco@kakao.com>
+Date:   Sun Jul 23 02:02:30 2023 +0900
+
+    Replace Lions with Leopards
+
+[33mcommit a2945633b6935e347cd24c4a809d43bb75271cc3[m
+Author: yalco <yalco@kakao.com>
+Date:   Sun Jul 23 02:01:40 2023 +0900
+
+    FIRST COMMIT
